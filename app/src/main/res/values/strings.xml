@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Who Wants To Become A Millionaire</string>
+    <string name="confirm">Confirm</string>
+    <string name="gotoquiz">Go To Quiz</string>
+</resources>
